@@ -1,0 +1,4 @@
+{
+  "prettier.default-config.tabWidth" : 2,
+  "prettier.format-on-save" : "Enable"
+}
