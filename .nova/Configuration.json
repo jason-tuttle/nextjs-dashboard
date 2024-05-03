@@ -1,4 +1,5 @@
 {
+  "apexskier.typescript.config.formatDocumentOnSave" : "true",
   "prettier.default-config.tabWidth" : 2,
-  "prettier.format-on-save" : "Enable"
+  "prettier.format-on-save" : "Disable"
 }
